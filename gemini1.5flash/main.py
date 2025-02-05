@@ -38,7 +38,7 @@ import time
 from datetime import datetime
 
 st.set_page_config(
-    page_title="Hello, Rayneo",
+    page_title="Hello, glass",
     page_icon="😎",
 )
 
