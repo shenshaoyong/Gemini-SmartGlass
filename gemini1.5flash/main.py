@@ -57,13 +57,13 @@ if not os.path.exists(output_wav):
 
 
 
-st.write("# Welcome to the console of Shenshaoyong's Checkride demo ! 👋")
+st.write("# Welcome to Smart Glass demo powered by Google Gemini!  👋")
 
 st.sidebar.success("start by clicking the demo link ")
 
 st.markdown(
     """
-    **👈 Select a demo from the sidebar** 
+    **👈 从左边选择菜单开始** 
     """
 )
 st.image("glass.png")
