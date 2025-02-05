@@ -12,6 +12,9 @@
 ## Running 运行
 * python save_image.py
 * python save_wav_vad.py
-* python streamlit main.py
+* streamlit run main.py
+* 自动启动默认浏览器自动打开演示页面，如下图
+  
 
 ## next action下一步
+Gemini 2.0 flash - live api
