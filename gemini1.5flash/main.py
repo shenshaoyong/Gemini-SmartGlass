@@ -66,7 +66,7 @@ st.markdown(
     **👈 Select a demo from the sidebar** 
     """
 )
-st.image("rayneo_X2.png")
+st.image("glass.png")
 
 if st.button("开始语音助手"):
     file = open(f"{output_wav}/current.txt", "w") 
@@ -133,7 +133,7 @@ if st.button("开始语音助手"):
             elif intent_id=="E":
                 st.switch_page("pages/5_🤖_agent.py")
             elif intent_id=="H":
-                st.switch_page("Smart_Glasses_GenAI_cases.py")
+                st.switch_page("main.py")
 
 
 
