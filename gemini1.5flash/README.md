@@ -14,7 +14,7 @@
 * python save_wav_vad.py
 * streamlit run main.py
 * 自动启动默认浏览器自动打开演示页面，如下图
-  
+  ![menu](menu.png)
 
 ## next action下一步
-Gemini 2.0 flash - live api
+* Gemini 2.0 flash - live api
