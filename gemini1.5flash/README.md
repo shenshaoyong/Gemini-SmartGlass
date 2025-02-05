@@ -2,10 +2,11 @@
 
 ## Architecture架构图
 ![Architecture架构图](architecture_diagram.png)
-## setting 设置
+## Setting 设置
 * macOS:15.3
 * chip: Apple M3 Pro
 * Python: 3.12.2
+* 安装并配置gcloud，[gcloud](https://cloud.google.com/sdk/docs/install-sdk)
 * pip3 install -r requirements.txt
 * pip3 install streamlit
 
